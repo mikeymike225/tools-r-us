@@ -1,0 +1,5 @@
+[
+  { "name": "Power Drill", "description": "Cordless 18V drill", "price": "10", "category": "Power Tools", "userId": "demo-user-1" },
+  { "name": "Lawn Mower", "description": "Gas-powered mower", "price": "25", "category": "Outdoor", "userId": "demo-user-2" },
+  { "name": "Paint Sprayer", "description": "High-volume sprayer", "price": "15", "category": "Painting", "userId": "demo-user-1" }
+]
